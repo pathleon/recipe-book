@@ -3,12 +3,12 @@
 
 ## Ingredients
 
-- fresh cilantro
+- 1 large bunch of fresh cilantro
 - 4-5 garlic cloves
 - 1 tsp salt
 - 1 tsp cumin
-- olive oil
-- white vinegar
+- 100 ml olive oil
+- a drizzle of white vinegar
 
 
 ## Instructions
