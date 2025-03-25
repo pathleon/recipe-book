@@ -14,7 +14,7 @@
 - **1** bell pepper, diced
 - **1** small onion, diced
 - **2-3 cloves** garlic, minced
-- **1 tablespoon** olive oil
+- **1 tablespoon** (extra) olive oil
 - **Salt and pepper** to taste
 - **1 teaspoon** dried oregano or Italian seasoning
 - **Fresh basil** for garnish (optional)
@@ -52,3 +52,8 @@
    - Let the lasagna cool for 10-15 minutes before slicing.
    - Garnish with fresh basil leaves if desired.
    - Serve warm and enjoy!
+
+## Notes
+
+- For a more traditional lasagne, substitute the mixture of cheeses 
+  (step 3. and 5.) by a home-cooked bechamel sauce.
